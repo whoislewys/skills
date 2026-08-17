@@ -1,6 +1,7 @@
 ---
 name: unit-test
 description: Guidance for writing unit tests that verify observable behavior and public contracts rather than internal implementation. Use when writing, reviewing, or refactoring unit tests, deciding whether to mock or stub, or when tests are brittle and break on refactors.
+disable-model-invocation: true
 ---
 
 ## Unit Testing: Test Behavior, Not Implementation

@@ -1,0 +1,11 @@
+{
+  "name": "whoislewys-skills",
+  "skills": [
+    "./engineering/explain-diff-html",
+    "./engineering/fix-dep-audit",
+    "./engineering/improve-readability",
+    "./engineering/unit-test",
+    "./productivity/cognitive-task-analysis",
+    "./productivity/simpler-english"
+  ]
+}

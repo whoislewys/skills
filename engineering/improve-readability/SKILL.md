@@ -1,6 +1,7 @@
 ---
 name: improve-readability
 description: Code readability principles from John Ousterhout's A Philosophy of Software Design, drawing on Ch. 2 (Nature of Complexity), 4 (Modules Should Be Deep), 10 (Define Errors Out of Existence), 13 (Comments Describe What Isn't Obvious), 14 (Choosing Names), 17 (Consistency), and 18 (Code Should Be Obvious). Covers obvious code, strategic naming, why-not-what comments, eliminating special cases, and visual grouping. Use when improving readability, naming variables, writing comments, or reviewing code for clarity and cognitive load.
+disable-model-invocation: true
 ---
 
 In A Philosophy of Software Design, John Ousterhout frames code readability not just as a matter of aesthetics, but as a critical mechanism for minimizing cognitive load and eliminating unknown unknowns (the two main drivers of software complexity).
