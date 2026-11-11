@@ -10,4 +10,4 @@ Imagine yourself being asked: "Think about what you do when you (task of interes
 
 After you settle on a list of steps, answer: "Of the steps you have just identified, which require difficult cognitive skills? By cognitive skills I mean: judgments, assessments, and problem solving-thinking skills."
 
-What kind of simulations may I design to provoke the construction of those mental models in the heads of my students
+What kind of simulations may I design to provoke the construction of those mental models in the heads of my students?

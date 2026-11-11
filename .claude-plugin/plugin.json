@@ -1,11 +1,14 @@
 {
   "name": "whoislewys-skills",
   "skills": [
+    "./engineering/c4-architecture",
     "./engineering/explain-diff-html",
     "./engineering/fix-dep-audit",
     "./engineering/improve-readability",
+    "./engineering/prove-it",
     "./engineering/unit-test",
     "./productivity/cognitive-task-analysis",
-    "./productivity/simpler-english"
+    "./productivity/simpler-english",
+    "./productivity/simple-english"
   ]
 }

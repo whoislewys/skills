@@ -1,0 +1,16 @@
+{
+  "name": "whoislewys",
+  "owner": {
+    "name": "Luis Gomez",
+    "url": "https://github.com/whoislewys"
+  },
+  "description": "whoislewys's agent skills, as an installable Claude Code plugin.",
+  "plugins": [
+    {
+      "name": "whoislewys-skills",
+      "source": "./",
+      "description": "Engineering and productivity skills: diff explainers, dependency audits, readability, unit tests, cognitive task analysis, simpler English.",
+      "category": "productivity"
+    }
+  ]
+}
