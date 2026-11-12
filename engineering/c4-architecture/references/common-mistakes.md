@@ -171,6 +171,7 @@ C4Container
 
 **The Problem:**
 You don't control external systems. Showing their internals creates coupling and becomes stale quickly.
+Especially in Container diagrams. Container diagrams should be scoped to show the internals of a single system only.
 
 **Wrong - External system internals:**
 ```mermaid

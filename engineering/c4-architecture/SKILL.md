@@ -33,11 +33,6 @@ Select the appropriate level based on the documentation need:
 
 ### System Context (Level 1)
 ```mermaid
----
-config:
-  c4:
-    c4ShapeMargin: 120
----
 C4Context
   title System Context - Workout Tracker
 
@@ -51,11 +46,6 @@ C4Context
 
 ### Container Diagram (Level 2)
 ```mermaid
----
-config:
-  c4:
-    c4ShapeMargin: 120
----
 C4Container
   title Container Diagram - Workout Tracker
 
@@ -74,11 +64,6 @@ C4Container
 
 ### Component Diagram (Level 3)
 ```mermaid
----
-config:
-  c4:
-    c4ShapeMargin: 120
----
 C4Component
   title Component Diagram - Workout Feature
 
@@ -97,11 +82,6 @@ C4Component
 
 ### Dynamic Diagram (Request Flow)
 ```mermaid
----
-config:
-  c4:
-    c4ShapeMargin: 120
----
 C4Dynamic
   title Dynamic Diagram - User Sign In Flow
 
